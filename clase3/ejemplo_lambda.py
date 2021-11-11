@@ -13,4 +13,3 @@ print(multiplicar_lambda(5, 8))
 # Con más funcionalidad
 imprimir_multiplicacion = lambda x, y: print(str(x * y))
 imprimir_multiplicacion(7, 5)
-

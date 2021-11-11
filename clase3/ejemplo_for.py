@@ -14,4 +14,3 @@ for i in range(5, 10):
 print('Imprime del 0 al 9 de dos en dos:')
 for i in range(0, 9, 2):
     print('  ', i)
-
